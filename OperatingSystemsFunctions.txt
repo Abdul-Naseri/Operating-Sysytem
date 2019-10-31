@@ -1,3 +1,13 @@
-Control over system performance- Monitors overall system health to help improve performance. 
-records the response time between service requests and system response to have a complete view of the system health.
-This can help improve performance by providing important information needed to troubleshoot problems.
+Device Management:
+Decides which process gets the device when and for how much time.
+Allocates the device in the efficient way.
+De-allocates devices.
+Memory Management:
+Keeps tracks of primary memory, i.e., what part of it are in use by whom, what part are not in use.
+In multiprogramming, the OS decides which process will get memory when and how much.
+Allocates the memory when a process requests it to do so.
+File Management:
+Keeps track of information, location, uses, status etc. The collective facilities are often known as file system.
+Decides who gets the resources.
+Allocates the resources.
+De-allocates the resources.
